@@ -20,3 +20,5 @@ export type searchResults = {
     price: string;
     total: string;
 }
+
+
